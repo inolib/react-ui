@@ -1,0 +1,12 @@
+{
+  "extends": "../../tsconfig.json",
+  "files": [
+    "../prettier/.prettierrc.jsdoc.cjs",
+    "../prettier/.prettierrc.jsxattribute-sort.cjs",
+    "../prettier/.prettierrc.packagejson.cjs",
+    "../prettier/.prettierrc.sort-imports.cjs",
+    "../../.eslintrc.cjs",
+    "../../.markdownlint.cjs",
+    "../../.prettierrc.cjs"
+  ]
+}
